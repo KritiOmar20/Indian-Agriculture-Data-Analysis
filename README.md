@@ -55,7 +55,15 @@ This project is a TypeScript-based analytics application designed to provide ins
 
 2. Screenshots:
    Below are screenshots of the tables for reference:
-   Table 1
+   
+   Table 1:
+   
+     https://github.com/KritiOmar20/Indian-Agriculture-Data-Analysis/blob/main/Screenshots/Screenshot%20(1).png
+     https://github.com/KritiOmar20/Indian-Agriculture-Data-Analysis/blob/main/Screenshots/Screenshot%20(2).png
+     https://github.com/KritiOmar20/Indian-Agriculture-Data-Analysis/blob/main/Screenshots/Screenshot%20(3).png
+     https://github.com/KritiOmar20/Indian-Agriculture-Data-Analysis/blob/main/Screenshots/Screenshot%20(4).png
+   
+   Table 2:
 
-   Table 2
+     https://github.com/KritiOmar20/Indian-Agriculture-Data-Analysis/blob/main/Screenshots/Screenshot%20(5).png
 
